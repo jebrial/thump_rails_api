@@ -6,7 +6,8 @@ vye:
   gender: female
   age: 71
   location: Kozhikode
-  orientation: likes_female
+  likes_men: 0
+  likes_women: 1
 
 ikayla:
   facebookid: 20000000000
@@ -16,7 +17,8 @@ ikayla:
   gender: male
   age: 99
   location: Faisalabad
-  orientation: likes_male
+  likes_men: 0
+  likes_women: 1
 
 ara:
   facebookid: 30000000000
@@ -26,7 +28,8 @@ ara:
   gender: female
   age: 73
   location: Banbury
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 0
 
 ritz:
   facebookid: 40000000000
@@ -36,7 +39,8 @@ ritz:
   gender: female
   age: 36
   location: Kanchipuram
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 1
 
 esley:
   facebookid: 50000000000
@@ -46,7 +50,8 @@ esley:
   gender: male
   age: 42
   location: Moga
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 1
 
 leanor:
   facebookid: 60000000000
@@ -56,7 +61,8 @@ leanor:
   gender: female
   age: 26
   location: Bathgate
-  orientation: likes_male
+  likes_men: 0
+  likes_women: 1
 
 ato:
   facebookid: 70000000000
@@ -66,7 +72,8 @@ ato:
   gender: female
   age: 42
   location: Alness
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 0
 
 iranda:
   facebookid: 80000000000
@@ -76,7 +83,8 @@ iranda:
   gender: female
   age: 68
   location: Randazzo
-  orientation: likes_female
+  likes_men: 0
+  likes_women: 1
 
 rian:
   facebookid: 90000000000
@@ -86,7 +94,8 @@ rian:
   gender: male
   age: 51
   location: Schwerin
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 1
 
 herokee:
   facebookid: 100000000000
@@ -96,7 +105,8 @@ herokee:
   gender: male
   age: 66
   location: Morhet
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 0
 
 ector:
   facebookid: 110000000000
@@ -106,7 +116,8 @@ ector:
   gender: female
   age: 42
   location: San Sostene
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 0
 
 mena:
   facebookid: 120000000000
@@ -116,7 +127,8 @@ mena:
   gender: female
   age: 99
   location: Cariboo Regional District
-  orientation: likes_male
+  likes_men: 0
+  likes_women: 1
 
 drian:
   facebookid: 130000000000
@@ -126,7 +138,8 @@ drian:
   gender: female
   age: 84
   location: Nellore
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 0
 
 avid:
   facebookid: 140000000000
@@ -136,7 +149,8 @@ avid:
   gender: female
   age: 74
   location: Bokaro Steel City
-  orientation: likes_male
+  likes_men: 0
+  likes_women: 1
 
 iara:
   facebookid: 150000000000
@@ -146,7 +160,8 @@ iara:
   gender: female
   age: 19
   location: Langley
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 1
 
 hristine:
   facebookid: 160000000000
@@ -156,7 +171,8 @@ hristine:
   gender: female
   age: 42
   location: Sandy
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 0
 
 ucy:
   facebookid: 170000000000
@@ -166,7 +182,8 @@ ucy:
   gender: female
   age: 44
   location: Pak Pattan
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 1
 
 ai:
   facebookid: 180000000000
@@ -176,7 +193,8 @@ ai:
   gender: female
   age: 66
   location: Valley East
-  orientation: likes_male
+  likes_men: 0
+  likes_women: 1
 
 issim:
   facebookid: 190000000000
@@ -186,7 +204,8 @@ issim:
   gender: male
   age: 35
   location: Boussu-lez-Walcourt
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 0
 
 sabelle:
   facebookid: 200000000000
@@ -196,7 +215,8 @@ sabelle:
   gender: female
   age: 18
   location: Harrisburg
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 0
 
 tacy:
   facebookid: 210000000000
@@ -206,7 +226,8 @@ tacy:
   gender: male
   age: 87
   location: Westerlo
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 1
 
 amara:
   facebookid: 220000000000
@@ -216,7 +237,8 @@ amara:
   gender: female
   age: 27
   location: Alix
-  orientation: likes_female
+  likes_men: 0
+  likes_women: 1
 
 eane:
   facebookid: 230000000000
@@ -226,7 +248,8 @@ eane:
   gender: male
   age: 90
   location: Verrayes
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 0
 
 ell:
   facebookid: 240000000000
@@ -236,7 +259,8 @@ ell:
   gender: male
   age: 56
   location: Bridlington
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 0
 
 adeline:
   facebookid: 250000000000
@@ -246,7 +270,8 @@ adeline:
   gender: male
   age: 79
   location: Barghe
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 0
 
 na:
   facebookid: 260000000000
@@ -256,7 +281,8 @@ na:
   gender: male
   age: 55
   location: Scalloway
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 1
 
 ina:
   facebookid: 270000000000
@@ -266,7 +292,8 @@ ina:
   gender: male
   age: 77
   location: Clare
-  orientation: likes_female
+  likes_men: 0
+  likes_women: 1
 
 esley:
   facebookid: 280000000000
@@ -276,7 +303,8 @@ esley:
   gender: male
   age: 57
   location: Bandırma
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 0
 
 obias:
   facebookid: 290000000000
@@ -286,7 +314,8 @@ obias:
   gender: female
   age: 79
   location: Beaumaris
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 0
 
 riffin:
   facebookid: 300000000000
@@ -296,7 +325,8 @@ riffin:
   gender: male
   age: 21
   location: R�ves
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 0
 
 lynn:
   facebookid: 310000000000
@@ -306,7 +336,8 @@ lynn:
   gender: female
   age: 91
   location: Anchorage
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 0
 
 yla:
   facebookid: 320000000000
@@ -316,7 +347,8 @@ yla:
   gender: female
   age: 87
   location: Ansfelden
-  orientation: likes_male
+  likes_men: 0
+  likes_women: 1
 
 alph:
   facebookid: 330000000000
@@ -326,7 +358,8 @@ alph:
   gender: female
   age: 75
   location: Musson
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 0
 
 enjamin:
   facebookid: 340000000000
@@ -336,7 +369,8 @@ enjamin:
   gender: female
   age: 45
   location: Savannah
-  orientation: likes_male
+  likes_men: 0
+  likes_women: 1
 
 elle:
   facebookid: 350000000000
@@ -346,7 +380,8 @@ elle:
   gender: female
   age: 100
   location: Champion
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 0
 
 aith:
   facebookid: 360000000000
@@ -356,7 +391,8 @@ aith:
   gender: female
   age: 83
   location: Braies/Prags
-  orientation: likes_male
+  likes_men: 0
+  likes_women: 1
 
 mani:
   facebookid: 370000000000
@@ -366,7 +402,8 @@ mani:
   gender: female
   age: 94
   location: Dannevirke
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 1
 
 iana:
   facebookid: 380000000000
@@ -376,7 +413,8 @@ iana:
   gender: male
   age: 66
   location: Nieuwerkerken
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 0
 
 laire:
   facebookid: 390000000000
@@ -386,7 +424,8 @@ laire:
   gender: female
   age: 58
   location: St. Andrews
-  orientation: likes_female
+  likes_men: 0
+  likes_women: 1
 
 pril:
   facebookid: 400000000000
@@ -396,7 +435,8 @@ pril:
   gender: female
   age: 73
   location: Priero
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 1
 
 asmine:
   facebookid: 410000000000
@@ -406,7 +446,8 @@ asmine:
   gender: male
   age: 100
   location: Campagna
-  orientation: likes_female
+  likes_men: 0
+  likes_women: 1
 
 in:
   facebookid: 420000000000
@@ -416,7 +457,8 @@ in:
   gender: female
   age: 96
   location: Castlegar
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 0
 
 alon:
   facebookid: 430000000000
@@ -426,7 +468,8 @@ alon:
   gender: female
   age: 86
   location: Perchtoldsdorf
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 0
 
 owan:
   facebookid: 440000000000
@@ -436,7 +479,8 @@ owan:
   gender: male
   age: 59
   location: Palanzano
-  orientation: likes_male
+  likes_men: 1
+  likes_women: 1
 
 aren:
   facebookid: 450000000000
@@ -446,7 +490,8 @@ aren:
   gender: male
   age: 56
   location: Saint-Louis
-  orientation: likes_female
+  likes_men: 1
+  likes_women: 1
 
 ee:
   facebookid: 460000000000
@@ -456,535 +501,5 @@ ee:
   gender: female
   age: 43
   location: Diksmuide
-  orientation: likes_female
-
-eely:
-  facebookid: 470000000000
-  name: Lev Simmons
-  first_name: Keely
-  last_name: Peterson
-  gender: male
-  age: 60
-  location: Germersheim
-  orientation: likes_male
-
-etta:
-  facebookid: 480000000000
-  name: Yuli Bartlett
-  first_name: Yetta
-  last_name: Walters
-  gender: male
-  age: 67
-  location: Avelgem
-  orientation: likes_male
-
-rmando:
-  facebookid: 490000000000
-  name: Anjolie Burks
-  first_name: Armando
-  last_name: Rush
-  gender: female
-  age: 48
-  location: Maubeuge
-  orientation: likes_male
-
-eegan:
-  facebookid: 500000000000
-  name: Nita Horn
-  first_name: Teegan
-  last_name: Black
-  gender: female
-  age: 18
-  location: Coldstream
-  orientation: likes_female
-
-adley:
-  facebookid: 510000000000
-  name: Hedley Frank
-  first_name: Hadley
-  last_name: Gibson
-  gender: male
-  age: 91
-  location: Hallaar
-  orientation: likes_male
-
-lake:
-  facebookid: 520000000000
-  name: Kendall Torres
-  first_name: Blake
-  last_name: Fitzpatrick
-  gender: male
-  age: 99
-  location: Tilff
-  orientation: likes_female
-
-iberty:
-  facebookid: 530000000000
-  name: Ina Wheeler
-  first_name: Liberty
-  last_name: Potter
-  gender: male
-  age: 86
-  location: Barahanagar
-  orientation: likes_male
-
-riscoll:
-  facebookid: 540000000000
-  name: Whoopi Chavez
-  first_name: Driscoll
-  last_name: Sampson
-  gender: male
-  age: 48
-  location: Vigo
-  orientation: likes_male
-
-amara:
-  facebookid: 550000000000
-  name: Sawyer Albert
-  first_name: Tamara
-  last_name: Cervantes
-  gender: female
-  age: 46
-  location: Fl�nu
-  orientation: likes_female
-
-rittany:
-  facebookid: 560000000000
-  name: Conan Price
-  first_name: Brittany
-  last_name: Lynn
-  gender: male
-  age: 73
-  location: Bamberg
-  orientation: likes_male
-
-ena:
-  facebookid: 570000000000
-  name: Emery Best
-  first_name: Xena
-  last_name: Hahn
-  gender: female
-  age: 96
-  location: Divinópolis
-  orientation: likes_female
-
-ola:
-  facebookid: 580000000000
-  name: Todd Chandler
-  first_name: Iola
-  last_name: Stein
-  gender: female
-  age: 79
-  location: Elbląg
-  orientation: likes_male
-
-ade:
-  facebookid: 590000000000
-  name: Bernard Roth
-  first_name: Cade
-  last_name: Byrd
-  gender: female
-  age: 31
-  location: La Rochelle
-  orientation: likes_male
-
-uincy:
-  facebookid: 600000000000
-  name: Desirae Frye
-  first_name: Quincy
-  last_name: Daniels
-  gender: male
-  age: 22
-  location: Essex
-  orientation: likes_female
-
-ared:
-  facebookid: 610000000000
-  name: Brody Garza
-  first_name: Jared
-  last_name: King
-  gender: female
-  age: 44
-  location: Maracalagonis
-  orientation: likes_female
-
-eremy:
-  facebookid: 620000000000
-  name: Melyssa Colon
-  first_name: Jeremy
-  last_name: Kline
-  gender: female
-  age: 36
-  location: Codó
-  orientation: likes_male
-
-ufutau:
-  facebookid: 630000000000
-  name: Kato Brooks
-  first_name: Mufutau
-  last_name: Osborne
-  gender: male
-  age: 33
-  location: Bertiolo
-  orientation: likes_male
-
-llegra:
-  facebookid: 640000000000
-  name: Timothy Cameron
-  first_name: Allegra
-  last_name: Lynn
-  gender: female
-  age: 29
-  location: Darlington
-  orientation: likes_male
-
-dysseus:
-  facebookid: 650000000000
-  name: Echo Clemons
-  first_name: Odysseus
-  last_name: Jarvis
-  gender: female
-  age: 31
-  location: Bonnyville
-  orientation: likes_male
-
-olt:
-  facebookid: 660000000000
-  name: Graiden Mccall
-  first_name: Colt
-  last_name: James
-  gender: female
-  age: 18
-  location: Monteroni d'Arbia
-  orientation: likes_female
-
-dette:
-  facebookid: 670000000000
-  name: Ferris Lee
-  first_name: Odette
-  last_name: Whitaker
-  gender: male
-  age: 100
-  location: Schulen
-  orientation: likes_female
-
-elissa:
-  facebookid: 680000000000
-  name: Eden Johnston
-  first_name: Melissa
-  last_name: Mcdonald
-  gender: female
-  age: 88
-  location: Houston
-  orientation: likes_female
-
-adonna:
-  facebookid: 690000000000
-  name: Blake Pratt
-  first_name: Madonna
-  last_name: Stafford
-  gender: male
-  age: 54
-  location: Tintigny
-  orientation: likes_female
-
-iaran:
-  facebookid: 700000000000
-  name: Harper Barnett
-  first_name: Ciaran
-  last_name: Robinson
-  gender: female
-  age: 98
-  location: Lowestoft
-  orientation: likes_male
-
-ashya:
-  facebookid: 710000000000
-  name: Piper Flores
-  first_name: Tashya
-  last_name: Sims
-  gender: male
-  age: 74
-  location: Salice Salentino
-  orientation: likes_female
-
-elodie:
-  facebookid: 720000000000
-  name: Emi Holloway
-  first_name: Melodie
-  last_name: Welch
-  gender: male
-  age: 68
-  location: Nieuwmunster
-  orientation: likes_male
-
-akeem:
-  facebookid: 730000000000
-  name: Tarik Raymond
-  first_name: Jakeem
-  last_name: Barron
-  gender: female
-  age: 31
-  location: Verrès
-  orientation: likes_female
-
-elix:
-  facebookid: 740000000000
-  name: Blossom Hampton
-  first_name: Felix
-  last_name: Cote
-  gender: male
-  age: 75
-  location: Burin
-  orientation: likes_male
-
-llana:
-  facebookid: 750000000000
-  name: Vladimir Villarreal
-  first_name: Illana
-  last_name: Underwood
-  gender: male
-  age: 73
-  location: Colwood
-  orientation: likes_female
-
-rendan:
-  facebookid: 760000000000
-  name: Regina Key
-  first_name: Brendan
-  last_name: Meyers
-  gender: male
-  age: 31
-  location: Feilding
-  orientation: likes_female
-
-aite:
-  facebookid: 770000000000
-  name: James Haney
-  first_name: Maite
-  last_name: Mcdowell
-  gender: female
-  age: 57
-  location: Balen
-  orientation: likes_female
-
-ameron:
-  facebookid: 780000000000
-  name: Cameron Parrish
-  first_name: Cameron
-  last_name: Holcomb
-  gender: male
-  age: 87
-  location: Thuin
-  orientation: likes_female
-
-ad:
-  facebookid: 790000000000
-  name: Armand Hobbs
-  first_name: Tad
-  last_name: Holt
-  gender: female
-  age: 65
-  location: Scarborough
-  orientation: likes_female
-
-atyana:
-  facebookid: 800000000000
-  name: Angela Donaldson
-  first_name: Tatyana
-  last_name: Burt
-  gender: male
-  age: 24
-  location: Dendermonde
-  orientation: likes_female
-
-ames:
-  facebookid: 810000000000
-  name: Ina Leon
-  first_name: James
-  last_name: Saunders
-  gender: female
-  age: 82
-  location: Vezin
-  orientation: likes_female
-
-lysses:
-  facebookid: 820000000000
-  name: Alma Simon
-  first_name: Ulysses
-  last_name: Shaffer
-  gender: male
-  age: 80
-  location: Fort Resolution
-  orientation: likes_female
-
-ermane:
-  facebookid: 830000000000
-  name: Constance Bishop
-  first_name: Germane
-  last_name: Norman
-  gender: female
-  age: 25
-  location: Kakisa
-  orientation: likes_male
-
-lossom:
-  facebookid: 840000000000
-  name: Aline Calhoun
-  first_name: Blossom
-  last_name: Spencer
-  gender: female
-  age: 60
-  location: Nizamabad
-  orientation: likes_male
-
-athan:
-  facebookid: 850000000000
-  name: Quin Dunn
-  first_name: Nathan
-  last_name: Solomon
-  gender: female
-  age: 41
-  location: Frederick
-  orientation: likes_male
-
-ani:
-  facebookid: 860000000000
-  name: Kareem Guy
-  first_name: Lani
-  last_name: Jacobson
-  gender: male
-  age: 34
-  location: Fochabers
-  orientation: likes_male
-
-onnor:
-  facebookid: 870000000000
-  name: Alika Stafford
-  first_name: Connor
-  last_name: Glenn
-  gender: male
-  age: 73
-  location: Topeka
-  orientation: likes_male
-
-onah:
-  facebookid: 880000000000
-  name: Carissa Strong
-  first_name: Jonah
-  last_name: David
-  gender: male
-  age: 34
-  location: Fochabers
-  orientation: likes_female
-
-ollee:
-  facebookid: 890000000000
-  name: Kristen Cohen
-  first_name: Hollee
-  last_name: Booth
-  gender: male
-  age: 69
-  location: Amqui
-  orientation: likes_female
-
-afael:
-  facebookid: 900000000000
-  name: Raymond Kirby
-  first_name: Rafael
-  last_name: Aguilar
-  gender: male
-  age: 21
-  location: Ribnitz-Damgarten
-  orientation: likes_female
-
-ama:
-  facebookid: 910000000000
-  name: Beverly Brown
-  first_name: Rama
-  last_name: Chambers
-  gender: male
-  age: 32
-  location: Chełm
-  orientation: likes_male
-
-aite:
-  facebookid: 920000000000
-  name: Thor Lester
-  first_name: Maite
-  last_name: Allison
-  gender: male
-  age: 66
-  location: Louth
-  orientation: likes_female
-
-iselle:
-  facebookid: 930000000000
-  name: Sean Duncan
-  first_name: Giselle
-  last_name: Anderson
-  gender: female
-  age: 95
-  location: Chesterfield
-  orientation: likes_male
-
-amona:
-  facebookid: 940000000000
-  name: Garth Mcclure
-  first_name: Ramona
-  last_name: Clements
-  gender: female
-  age: 29
-  location: Mal
-  orientation: likes_female
-
-andice:
-  facebookid: 950000000000
-  name: Jolene Meyer
-  first_name: Candice
-  last_name: French
-  gender: female
-  age: 54
-  location: Saint-Eug�ne-de-Ladri�re
-  orientation: likes_female
-
-yron:
-  facebookid: 960000000000
-  name: Patience Ingram
-  first_name: Byron
-  last_name: Weeks
-  gender: male
-  age: 51
-  location: Feira de Santana
-  orientation: likes_female
-
-atalie:
-  facebookid: 970000000000
-  name: Jason Roy
-  first_name: Natalie
-  last_name: Workman
-  gender: female
-  age: 58
-  location: Prince George
-  orientation: likes_female
-
-dward:
-  facebookid: 980000000000
-  name: Kameko Gill
-  first_name: Edward
-  last_name: Robertson
-  gender: male
-  age: 18
-  location: Olen
-  orientation: likes_female
-
-ev:
-  facebookid: 990000000000
-  name: Cullen Ayala
-  first_name: Lev
-  last_name: Adkins
-  gender: female
-  age: 62
-  location: Gwalior
-  orientation: likes_male
-
+  likes_men: 1
+  likes_women: 0

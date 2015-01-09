@@ -9,7 +9,8 @@ class PlayerTest < ActiveSupport::TestCase
                           gender: :male,
                           age: "36",
                           location: "Saint Louis",
-                          orientation: :likes_female )
+                          likes_men: 0,
+                          likes_women: 1)
   end
 
   test "player should exist" do
@@ -47,8 +48,13 @@ class PlayerTest < ActiveSupport::TestCase
     assert_not @player.valid?
   end
 
-  test "player orientation should not be empty" do
-    @player.orientation = " "
+  test "player likes_men should not be empty" do
+    @player.likes_men = " "
+    assert_not @player.valid?
+  end
+
+  test "player likes_women should not be empty" do
+    @player.likes_women = " "
     assert_not @player.valid?
   end
 

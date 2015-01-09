@@ -8,7 +8,8 @@ class CreatePlayers < ActiveRecord::Migration
       t.integer :gender, default: 0, null: false
       t.string :age
       t.string :location
-      t.integer :orientation, default: 0, null: false
+      t.integer :likes_men, default: 0, null: false
+      t.integer :likes_women, default: 1, null: false
 
       t.timestamps null: false
     end
