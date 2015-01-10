@@ -25,7 +25,4 @@ class PlayerResourcesTest < ActionDispatch::IntegrationTest
     assert_equal 201, response.status
     assert_equal Mime::JSON, response.content_type
   end
-
-  # test "should return a list of players based on a specific player's preference" do
-  #   get "/pla"
 end
